@@ -1,6 +1,6 @@
 # ispc-analista-datos
-# ISPC - bloque Analista de Datos - Proyecto Final - 2024 
-# Equipo de trabajo para proyecto final Bloque Analista de Datos - ISPC 
+ISPC - bloque Analista de Datos - Proyecto Final - 2024 
+Equipo de trabajo para proyecto final Bloque Analista de Datos - ISPC 
 
 Apellido y nombre: BENDEZU Ana Valentina
 DNI: 35530141
