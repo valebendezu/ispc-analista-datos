@@ -1,29 +1,15 @@
-# ispc-analista-datos
-ISPC - bloque Analista de Datos - Proyecto Final - 2024 
-Equipo de trabajo para proyecto final Bloque Analista de Datos - ISPC 
+# Proyecto integrador para el Módulo de Analista de Datos - ISPC
+### Grupo: *DataBring*
+#### N° Grupo: *5*
+#### Integrantes:
+- [Bendezu, Ana Valentina](https://github.com/valebendezu)
+- [Blasiche, Andrés](https://github.com/blasichea)
+- [Cabrera,Marcos Rodrigo](https://github.com/MarcosCabrera85)
+- [Palomeque, Dalila Macarena](https://github.com/DalilaPalomeque)
+- [Palomeque, Jonatan Manuel](https://github.com/manuelpalomeque)
+- [Tejeda, Romina Soledad](https://github.com/RominaTejeda)
 
-Apellido y nombre: BENDEZU Ana Valentina
-DNI: 35530141
-Usuario GitHub: https://github.com/valebendezu
-
-Apellido y nombre: BLASICHE Andrés 
-DNI: 31405881
-Usuario GitHub: https://github.com/blasichea
-
-Apellido y nombre: CABRERA Marcos Rodrigo
-DNI: 31667009
-Usuario GitHub: https://github.com/MarcosCabrera85
-
-Apellido y nombre: PALOMEQUE Jonathan Manuel 
-DNI: 36144579
-Usuario GitHub: https://github.com/manuelpalomeque
-
-Apellido y nombre: PALOMEQUE Dalila Macarena 
-DNI: 39733230
-Usuario GitHub: https://github.com/DalilaPalomeque
-
-Apellido y nombre: TEJEDA Romina Soledad 
-DNI: 34501801
-Usuario GitHub: https://github.com/RominaTejeda
-
-
+#### Módulo: Analista de datos (Estádistica y Exploración de datos, Ciencia de Datos y Procesamiento de Datos)
+#### Carrera: Tecnicatura Superior en Ciencia de datos e IA
+#### Institución: Instituto Superior Politécnico Córdoba (ISPC)
+#### Año: 2024
