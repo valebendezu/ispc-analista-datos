@@ -6,7 +6,7 @@
 - [Blasiche, Andrés](https://github.com/blasichea)
 - [Cabrera,Marcos Rodrigo](https://github.com/MarcosCabrera85)
 - [Palomeque, Dalila Macarena](https://github.com/DalilaPalomeque)
-- [Palomeque, Jonatan Manuel](https://github.com/manuelpalomeque)
+- [Palomeque, Jonathan Manuel](https://github.com/manuelpalomeque)
 - [Tejeda, Romina Soledad](https://github.com/RominaTejeda)
 
 #### Módulo: Analista de datos (Estádistica y Exploración de datos, Ciencia de Datos y Procesamiento de Datos)
