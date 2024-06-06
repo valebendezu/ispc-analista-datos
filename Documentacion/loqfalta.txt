@@ -7,3 +7,5 @@ Tenemos que aclarar que debimos manipular los datos introduciendo errores, dupli
 ####Chicos falta limpiar un poco los datos negativos, los 0 y agrupar por país los datos asi####
 ####Tomamos las medidas descriptivas y mas o menos estamos                                  ####
 ################################################################################################
+
+# Agregue archivo CSV (Datos/ord_pais_fecha.csv) donde los registros estan ordenados por pais, año y cuatrimestre.
