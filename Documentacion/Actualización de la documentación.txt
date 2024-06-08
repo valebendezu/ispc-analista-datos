@@ -1,6 +1,6 @@
-3) En cuanto a las reuniones de trabajo coordinamos una meet con google calendar, en base a la disposicion horaria de cada integrante. Por lo general martes y jueves a las 18:00 hs. La organización fue mediante la delegación de tareas (limpieza de datos, creación de gráficos, medidas descriptivas, actualización de la documentación), las cuales se debían realizar durante la semana, en las meetings compartimos lo realizado e hicimos la puesta en común.
+3) En cuanto a las reuniones de trabajo coordinamos una meet mediante google calendar, en base a la disposicion horaria de cada integrante. Por lo general, se llevaban a cabo, los días martes y jueves a las 18:00 hs. La organización se realizo mediante la delegación de tareas (limpieza de datos, creación de gráficos, medidas descriptivas, actualización de la documentación), las cuales se debían completar durante la semana, en las meetings compartimos lo realizado y llevamos a cabo la puesta en común.
 
-Tenemos que aclarar que debimos manipular los datos introduciendo errores, duplicamos datos, borramos algunos de ellos, cambiamos el formato de otros tantos y colocamos algun que otro dato erroneo para cumplir con lo que se solicitó, ya que anteriormente solo contabamos con datos en formato incorrecto.
+Cabe aclarar que debimos manipular los datos introduciendo errores, duplicamos datos, borramos algunos de ellos, cambiamos el formato de otros tantos y colocamos algun que otro dato erroneo para cumplir con lo que se solicitó, ya que anteriormente solo contabamos con datos en formato incorrecto.
 
 Se agregó archivo CSV (Datos/ord_pais_fecha.csv) donde los registros estan ordenados por pais, año y cuatrimestre.
 
